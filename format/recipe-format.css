@@ -1,0 +1,44 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+h1, h2 {
+    font-family: "Lucida Console", "Copperplate", "Courier New";
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 20%;
+}
+
+.pictures {
+    position: relative;
+    left: 36%;
+    top: 50%;
+}
+
+p, ol, ul {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 20px;
+    font-family: "Lucida Console", "Copperplate", "Courier New";
+    line-height: 40px;
+}
+
+.drama {
+    font-family: "Lucida Console", "Copperplate", "Courier New";
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 100px;
+}
+
+.index p {
+    text-align: center;
+    margin: 0%;
+}
