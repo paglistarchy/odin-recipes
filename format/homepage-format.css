@@ -1,0 +1,59 @@
+body {
+    color: black;
+    background-color: rgb(245, 245, 245);
+    font-family: "Garamond", "Times New Roman", sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: left;
+    border-bottom: 2px double black;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 130px;
+    margin-right: 1350px;
+    margin-bottom: 50px;
+}
+
+/* Code below focuses on formatting of pictures. */
+
+.first-picture-format {
+    display: inline-block;
+    text-align: centre;
+    margin-left: 135px;
+    filter: grayscale(100%);
+}
+
+.pictures {
+    display: inline-block;
+    text-align: centre;
+    margin-left: 50px;
+    filter: grayscale(100%);
+}
+
+/* Code below focuses on formatting of captions.*/
+
+.image-one-text, .image-two-text, .image-three-text {
+    font-size: 30px;
+    line-height: 40px;
+    display: inline-block;
+}
+
+p {
+    display: inline-block;
+}
+
+.image-one-text {
+    display: inline-block;
+    margin-left: 300px;
+}
+
+.image-two-text {
+    margin-left: 380px;
+}
+
+.image-three-text {
+    margin-left: 400px;
+    margin-bottom: 30px;
+}
+
